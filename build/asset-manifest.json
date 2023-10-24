@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/birthday-reminder/static/css/main.e6c848cf.css",
+    "main.js": "/github.io/birthday-reminder/static/js/main.48030674.js",
+    "index.html": "/github.io/birthday-reminder/index.html",
+    "main.e6c848cf.css.map": "/github.io/birthday-reminder/static/css/main.e6c848cf.css.map",
+    "main.48030674.js.map": "/github.io/birthday-reminder/static/js/main.48030674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c848cf.css",
+    "static/js/main.48030674.js"
+  ]
+}
